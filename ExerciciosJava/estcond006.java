@@ -10,7 +10,6 @@ public class estcond006 {
 
         double valor = sc.nextDouble();
 
-        double intervalo = valor;
         if (valor > 0 && valor <= 25){
             System.out.println("Intervalo [0,25]"); 
         } else if (valor > 25 && valor <= 50){
