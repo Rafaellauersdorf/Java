@@ -8,10 +8,10 @@ public class estseq005 {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-            int codpec = sc.nextInt();
+            
             int numpec = sc.nextInt();
             double valpec = sc.nextDouble();
-            int codpec2 = sc.nextInt();
+            
             int numpec2 = sc.nextInt();
             double valpec2 = sc.nextDouble();
 
